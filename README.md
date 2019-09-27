@@ -1,2 +1,2 @@
 # cplusplus-programs
-Here are some cool C++ programs.
+This repository contains programs in C++ language. Contributions are more than welcome!
