@@ -99,7 +99,7 @@ int main(){
 	cout << "| 7 || 8 || 9 |" << endl;
 	cout << "----++---++----" << endl << endl << endl;
 
-	cout<<"Only legal moves are the numbers you see on the board\n\n";
+	cout<<"Only legal moves are the numbers you see on the board.\n";
 	int board[9]={0};
 	int moves=0,k;
 	//Player = -1 ; Computer = 1
@@ -137,7 +137,7 @@ int main(){
             cout<<"You lose.\n";
             break;
         case -1:
-            cout<<"This will never Happen. But if it does(It never will), Congratulations, You have beaten the unbeatable\n";
+            cout<<"This will never Happen. But if it does, Congratulations, You have beaten the unbeatable\n";
             break;
     }
 	return 0;
